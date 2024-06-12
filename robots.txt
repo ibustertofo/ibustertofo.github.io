@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ibustertofo.github.io/sitemap.html
+Sitemap: https://ibustertofo.github.io/app/sitemap.html
+Sitemap: https://ibustertofo.github.io/assets/sitemap.html
+Sitemap: https://ibustertofo.github.io/css/sitemap.html
+Sitemap: https://ibustertofo.github.io/includes/sitemap.html
+Sitemap: https://ibustertofo.github.io/item/sitemap.html
+Sitemap: https://ibustertofo.github.io/src/sitemap.html
